@@ -1,4 +1,4 @@
-# 📘 Library Management System
+# 📙 Library Management System
 
 A Library Management System made using the concepts of Database Management System (DBMS).
 
